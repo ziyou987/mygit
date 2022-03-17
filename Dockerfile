@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/scheduledworkflow:1.8.1
+FROM gcr.io/ml-pipeline/frontend:1.8.1
