@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:6ddffbc286a84048cfd090193d00b4ecda25a3a7bf2de1a8e873f8b3755cc913
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/webhook@sha256:9f70a2a8bb78781472fba0327c5d6ff91f13a29736d4502bf8ad3d60d3f16ccd
