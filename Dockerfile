@@ -1,1 +1,1 @@
-FROM gcr.io/ml-pipeline/mysql:5.7
+FROM gcr.io/ml-pipeline/workflow-controller:v3.2.3-license-compliance
