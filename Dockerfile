@@ -1,1 +1,1 @@
-FROM gcr.io/arrikto/kubeflow/oidc-authservice:28c59ef
+FROM gcr.io/knative-releases/knative.dev/eventing/cmd/controller@sha256:6ddffbc286a84048cfd090193d00b4ecda25a3a7bf2de1a8e873f8b3755cc913
