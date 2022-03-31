@@ -1,1 +1,1 @@
-FROM gcr.io/knative-releases/knative.dev/eventing/cmd/broker/ingress@sha256:cf579f88aa2a37c240e25bb886c1ef5404e326e12c7caf571e49308612243eee
+FROM gcr.io/knative-releases/knative.dev/serving/cmd/activator@sha256:fed92af8b9779c97482906db8857f27b5d4826708b75d0298aa30fad8900671f
