@@ -1,1 +1,1 @@
-FROM gcr.io/kubebuilder/kube-rbac-proxy:v0.4.0
+FROM quay.io/external_storage/nfs-client-provisioner:latest
